@@ -5,5 +5,5 @@ Green 200
 Yellow 40
 Black 120
 Braun 20
-White 180
+White 130
 Orange 170
